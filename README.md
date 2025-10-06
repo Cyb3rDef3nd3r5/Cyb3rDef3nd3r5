@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Awais Asgher
 
-<!--
-**Cyb3rDef3nd3r5/Cyb3rDef3nd3r5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student at Riphah International University  
+🛡️ Aspiring SOC Analyst | TryHackMe Learner  
+💻 Interests: Threat Hunting, Network Security, Malware Analysis
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Security Operations (SOC)
+- SIEM Tools (Splunk, Wazuh, ELK)
+- Python for Cybersecurity
+- Linux and Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills
+- Python, Bash, C++
+- Wireshark, Nmap, Burp Suite
+- TryHackMe, Cisco NetAcad
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/awais-asgher-4882b8285)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/HuNt3R)
